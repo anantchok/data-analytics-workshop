@@ -1,6 +1,10 @@
 # Data Analytics for Business Decision & Action — Instructor Pack
 
+<<<<<<< HEAD
 หลักสูตรอบรม 4 วัน สำหรับผู้เข้าอบรมที่ต้องการ upskill ทางด้าน Data Analytics
+=======
+หลักสูตรอบรม 4 วัน สำหรับผู้เข้าอบรมประมาณ 40 คน
+>>>>>>> 46223a8 (Update LAB01-LAB07 with detailed workshop steps)
 
 **Business Problem → Analytical Question → Data → Analysis → Evidence → Insight → Recommendation → Action Plan → Executive Communication**
 
@@ -16,6 +20,7 @@ Google Sheets → GitHub/Codespaces → VS Code → GitHub Copilot → Python/Pa
 - `day03/` Communicate & Decide
 - `capstone/` Recommend & Act
 - `assessment/` Pre/Post-test และ Rubric
+<<<<<<< HEAD
 
 ## Workflow สำหรับผู้เข้าอบรม
 
@@ -54,3 +59,6 @@ streamlit run day03/app_starter/app.py
 **Predict → Ask AI → Inspect → Run → Explain → Verify → Decide**
 
 ห้ามใช้ AI เพื่อสร้างข้อสรุปแทนโดยไม่ตรวจ Evidence
+=======
+- `instructor/` เฉลยและ Facilitation Notes
+>>>>>>> 46223a8 (Update LAB01-LAB07 with detailed workshop steps)
