@@ -20,11 +20,11 @@ Google Sheets → GitHub/Codespaces → VS Code → GitHub Copilot → Python/Pa
 ## Workflow สำหรับผู้เข้าอบรม
 
 ไปที่ link : https://github.com/anant/data-analytics-workshop
-login githut ด้วย gmail
+login github ด้วย gmail
 พร้อมคำสั่ง:
 ### Step 1 : กดปุ่ม Use this template สีเขียวที่มุมขวาบน
 ### Step 2 : เลือก Create a new repository
-    ตั้งชื่อ เช่น data-analytics-workshop-anant
+    ตั้งชื่อ เช่น data-analytics-workshop-yourname
 ### Step 3 : เข้า repository ของตัวเอง
 ### Step 4 : เลือก
 Code → Codespaces → Create codespace on main
