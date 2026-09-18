@@ -41,7 +41,7 @@ fig = px.scatter(
     hover_name="Branch",
     title="Service Time vs Complaint Rate"
 )
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 # TODO: add 1–3 decision-relevant charts
 # TODO: write evidence-based insight headlines
@@ -58,4 +58,4 @@ action_plan = pd.DataFrame({
     "Target": ["TODO"],
     "Expected Impact": ["TODO"]
 })
-st.dataframe(action_plan, use_container_width=True)
+st.dataframe(action_plan, width="stretch")
